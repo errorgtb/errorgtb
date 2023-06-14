@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @errorgtb
+- 👀 I’m interested in video games, streaming, and learning to code
+- 🌱 I’m currently learning HTML, CSS, JS and Bootstrap
+- 💞️ I’m looking to collaborate on websites?
